@@ -14,5 +14,5 @@ def receipt():
     return render_template("receipt.html")
 
 
-if __name__ == "_main_":
-    app.run(debug=True)
+
+
